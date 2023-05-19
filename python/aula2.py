@@ -1,4 +1,4 @@
-#A função input faz com que você possa escrever e digitar o que o código pede
+#A função input faz com que você possa escrever e digitar o que o programa pede
 nome = input('Escreva seu nome: ') 
 idade = input('Digite sua idade: ') 
 altura = input('Agora digite sua altura: ')
